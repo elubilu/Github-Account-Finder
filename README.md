@@ -13,3 +13,5 @@ Basically, developed it for education purpose.
 - You can get their profile url
 - You can see recent repositories that done by the person.
 - You can get total repository. 
+- You can see total no of follwers & following 
+- Will get details of latest repos.
