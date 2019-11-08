@@ -7,7 +7,7 @@ Github account Finder
 This is an api based website that will help u to get information about a person,company or repository quickly. 
 Basically, developed it for education purpose. 
 
-## What you can do? 
+## What you can do with the Project? 
 - You can search with fastest way.
 - You can search Github User by their name or username.
 - You can get their profile url
