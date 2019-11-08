@@ -5,4 +5,11 @@ Github account Finder
 Developed By: Rasel Ahmed
 
 This is an api based website that will help u to get information about a person,company or repository quickly. 
-Basically, developed it as educatio purpose. 
+Basically, developed it for education purpose. 
+
+## What you can do? 
+- You can search with fastest way.
+- You can search Github User by their name or username.
+- You can get their profile url
+- You can see recent repositories that done by the person.
+- You can get total repository. 
